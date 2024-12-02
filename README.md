@@ -2,6 +2,7 @@
 
 O ProgrAmar é uma plataforma que visa desburocratizar o acesso à educação em tecnologia, focada em jovens de baixa renda. Ela conecta usuários a cursos, mentorias e ferramentas gratuitas, oferecendo uma ponte para o desenvolvimento de habilidades digitais essenciais.
 
+![image](https://github.com/user-attachments/assets/649f6faa-7575-4295-b78b-eeb097839414)
 
 ## 📂 Sumário
 
