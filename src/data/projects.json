@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Instituto Proa",
+    "imageSrc": "projects/Proa.png",
+    "description": "O Instituto Proa tem como missão promover a inclusão social e o desenvolvimento de jovens de baixa renda, por meio de programas de educação e preparação para o mercado de trabalho.",
+    "skills": ["Tecnologia", "Empregabilidade"],
+    "demo": "https://www.proa.org.br/"
+  },
+  {
+    "title": "Instituto Joule",
+    "imageSrc": "projects/Joule.png",
+    "description": "Através de programas de mentorias, o Instituto Joule busca transformar a realidade, oferecendo ferramentas e oportunidades para que possam conquistar todo seu potencial.",
+    "skills": ["Mentorias", "Tecnologia"],
+    "demo": "https://institutojoule.org/"
+  },
+  {
+    "title": "RocketSeat",
+    "imageSrc": "projects/RocketSeat.png",
+    "description": "A Rocketseat é uma plataforma de educação tecnológica com foco em capacitar profissionais altamente qualificados para o mercado de desenvolvimento de software de forma prática e imersiva.",
+    "skills": ["Tecnologia", "Cursos"],
+    "demo": "https://www.rocketseat.com.br/"
+  }
+]
